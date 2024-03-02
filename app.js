@@ -80,9 +80,12 @@
 //     console.log("you cannot vote");
 // }
 
-let a = 5;
-let b = 10;
+let a = 19;
+let b = 30;
 a = a - b;
 b = a + b;
 a = b - a;
-console.log(a = b);
+console.log(`a = ${a}   b = ${b}`);
+
+
+// console.log(6 / true);
